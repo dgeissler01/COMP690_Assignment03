@@ -12,6 +12,7 @@ while (x < 1 || x === null || isNaN(x) === true) {
     console.log(`User entered: ${x}.`)
 }
 
+// FOR LOOP TO DISPLAY IN CONSOLE
 for (let i = 0; i <= x; i++) {
     console.log(x)
     x = x - 1
